@@ -1,0 +1,15 @@
+ipykernel
+langchain-community
+python-dotenv
+langchain
+streamlit
+langchain-core
+sentence-transformers
+google-generativeai
+huggingface-hub
+transformers
+faiss-cpu
+pandas
+plotly
+-e .
+langchain-google-genai
