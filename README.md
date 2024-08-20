@@ -1,4 +1,4 @@
-# SQL BOT
+# SQL BOT ( Chinook DB) 
 
 1. 
 conda create -n sqlbot python=3.10 -y
