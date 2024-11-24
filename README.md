@@ -1,4 +1,10 @@
-# SQL BOT ( Chinook DB) 
+# SQL BOT 
+
+DB Used:( Chinook DB)
+LLM: Gemini
+FrontEnd: Streamlit
+
+Execution Steps:
 
 1. 
 conda create -n sqlbot python=3.10 -y
