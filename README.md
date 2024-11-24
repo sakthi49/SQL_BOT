@@ -1,8 +1,8 @@
 # SQL BOT 
 
-DB Used:( Chinook DB)
-LLM: Gemini
-FrontEnd: Streamlit
+- DB Used:( Chinook DB)
+- LLM: Gemini
+- FrontEnd: Streamlit
 
 Execution Steps:
 
